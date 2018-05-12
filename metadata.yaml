@@ -1,0 +1,34 @@
+_repo: The-Marriage-of-Heaven-and-Hell_45315
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45315-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blake, William
+    alias: Blake, W. (William)
+    birthdate: 1757
+    deathdate: 1827
+    gutenberg_agent_id: '295'
+    url: http://www.gutenberg.org/2009/agents/295
+    wikipedia: http://en.wikipedia.org/wiki/William_Blake
+description: This vivid facsimile of Blake's romantic and revolutionary publication
+  offers a concise expression of his essential wisdom and philosophy. The poet's conception
+  of a cosmic union of the material world and physical desire has inspired artists
+  and thinkers from Aldous Huxley to Jim Morrison. His distinctive hand-lettered text
+  is accompanied by 27 color plates of his stirring illustrations.
+gutenberg_issued: '2014-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45315'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hell'
+- !lcsh 'Mysticism'
+- !lcsh 'Heaven'
+- !lcc 'PR'
+title: The Marriage of Heaven and Hell
+url: http://www.gutenberg.org/ebooks/45315
